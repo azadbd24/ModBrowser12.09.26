@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ModBrowser</string>
+    <string name="search_or_url">Search or type URL</string>
+    <string name="back">Back</string>
+    <string name="forward">Forward</string>
+    <string name="reload">Reload</string>
+    <string name="pip">Picture in picture</string>
+    <string name="menu">Menu</string>
+    <string name="home">Home</string>
+    <string name="toggle_adblock">Ad block</string>
+    <string name="toggle_darkmode">Dark mode</string>
+    <string name="playback_notif_title">Playing media</string>
+    <string name="playback_notif_text">Tap to return to browser</string>
+</resources>

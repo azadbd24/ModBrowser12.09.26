@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_home"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/action_adblock"
+        android:title="@string/toggle_adblock"
+        android:checkable="true" />
+    <item
+        android:id="@+id/action_darkmode"
+        android:title="@string/toggle_darkmode"
+        android:checkable="true" />
+</menu>

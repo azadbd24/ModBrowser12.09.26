@@ -1,0 +1,67 @@
+# ModBrowser starter blocklist.
+# One host per line (or hosts-file "0.0.0.0 host" format also works).
+# Parent-domain matching is applied automatically (blocking doubleclick.net
+# also blocks ads.g.doubleclick.net, etc).
+#
+# This is a small starter set covering major ad/analytics networks so the
+# app works out of the box. For "best possible" blocking, replace this file
+# with a compiled hosts-file export of EasyList + EasyPrivacy + a mobile-ads
+# list (several free tools/sites convert those filter lists into a plain
+# hosts file you can drop straight in here).
+
+doubleclick.net
+googlesyndication.com
+googleadservices.com
+google-analytics.com
+googletagmanager.com
+googletagservices.com
+adservice.google.com
+pagead2.googlesyndication.com
+adnxs.com
+adsrvr.org
+taboola.com
+outbrain.com
+criteo.com
+scorecardresearch.com
+quantserve.com
+moatads.com
+adform.net
+rubiconproject.com
+pubmatic.com
+openx.net
+casalemedia.com
+bidswitch.net
+mopub.com
+applovin.com
+unityads.unity3d.com
+facebook.com/tr
+connect.facebook.net
+amazon-adsystem.com
+media.net
+zedo.com
+adcolony.com
+chartboost.com
+vungle.com
+inmobi.com
+smartadserver.com
+yieldmo.com
+sharethrough.com
+33across.com
+contextweb.com
+advertising.com
+adsafeprotected.com
+adition.com
+exponential.com
+flashtalking.com
+gemius.com
+mathtag.com
+newrelic.com
+segment.io
+mixpanel.com
+hotjar.com
+crazyegg.com
+optimizely.com
+branch.io
+appsflyer.com
+adjust.com
+kochava.com
